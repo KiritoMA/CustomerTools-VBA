@@ -42,6 +42,3 @@ The same `Con_DB`, such as `Config_FS_NWZ0001`, means they are corresponding to 
 
 *  When all the options are selected, fill the `Con_DB` in the left_bottom of the `Generator Tools`. Then click the button `Generator`. A new sheet named by what you filled in `Configuration` is created, and the database is already generated.
 ![process 2.png](http://upload-images.jianshu.io/upload_images/9445448-bc5bbbcb796642a0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-##  Remaining problem
-Program running slow due to badly designed algorithms.
