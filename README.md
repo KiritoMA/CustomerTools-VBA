@@ -8,10 +8,10 @@ Database Generator is an Excel file with VBA , which is used to generate Product
 All kinds of products has their corresponding parameters.
 And generally the same series of products has same parameters, but the value of each parameter of the Products belong to one serie is different.  
 
-In the follow picture, showed a series of product called `Config_FS_HZ`.
-The header, which is highlighted in orange, is the parameters of `Config_FS_HZ`.
+In the follow picture, showed a series of product called `Config_FS_NW`.
+The header, which is highlighted in orange, is the parameters of `Config_FS_NW`.
 
-The same `Con_DB`, such as `Config_FS_HZ0001`, means they are corresponding to the same `Reference No.`. (Reference No. is the drawing number of the product) 
+The same `Con_DB`, such as `Config_FS_NWZ0001`, means they are corresponding to the same `Reference No.`. (Reference No. is the drawing number of the product) 
 ![IPM1.png](http://upload-images.jianshu.io/upload_images/9445448-b38079f5a7660f72.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 `Reference No.` is showed in sheets("Ref.").
