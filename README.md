@@ -6,7 +6,7 @@ Database Generator is an Excel file with VBA , which is used to generate Product
 ### Product Database
 
 All kinds of products has their corresponding parameters.
-And generally the same series of products has same parameters, but the value of each parameter of the Products belong to a serie is different.  
+And generally the same series of products has same parameters, but the value of each parameter of the Products belong to one serie is different.  
 
 In the follow picture, showed a series of product called `Config_FS_HZ`.
 The header, which is highlighted in orange, is the parameters of `Config_FS_HZ`.
