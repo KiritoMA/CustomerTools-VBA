@@ -1,5 +1,5 @@
 # Database Generator - VBA
-This file is used by `Ecoreal iPM_DB` only.
+This file is used for `Ecoreal iPM_DB` only.
 ## Introduction
 Database Generator is an Excel file with VBA , which is used to generate Product Database(`Ecoreal iPM_DB`) automatically.
 
